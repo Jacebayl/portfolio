@@ -2,3 +2,13 @@
 <html class="homepage">
 <head>
 <!-- this is a comment! Text here will be ingnored by the browser. -->
+< meta charsey="utf-8">
+<title> Jace bayless ECS portfolio<?title>
+<link href="myCSS.css" rel="Stylesheet" type"text/css">
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>Jace Bayless ECS portfolio</h1>
+</div>
+ </class="nav">
